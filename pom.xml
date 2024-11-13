@@ -5,7 +5,7 @@
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
 	<version>8.6.4</version>
-	<name>my JAVA</name>
+	<name>MY WEB JAVA</name>
 	<url>http://maven.apache.org</url>
 	
 	<properties>
